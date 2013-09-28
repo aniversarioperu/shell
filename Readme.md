@@ -81,7 +81,7 @@ can contain other files or directories.
 Whenever you start up a terminal, you will start in a special
 directory called the *home* directory. Every user has their own home
 directory where they have full access to do whatever they want. In
-this case since we're all logged in as the same user we created directories to use as home. Whenever we talk about *home* during this workshop we mean **/mnt/<yourlogin>**. In this case, the `pwd` command tells us that we are in the `/mnt/<yourlogin`
+this case since we're all logged in as the same user we created directories to use as home. Whenever we talk about *home* during this workshop we mean `/mnt/<yourlogin>`. In this case, the `pwd` command tells us that we are in the `/mnt/<yourlogin`
 directory.
 
 ## File Types
