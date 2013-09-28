@@ -43,8 +43,8 @@ are different. We recommend sticking with bash and learning it well.
 # The Example: Manipulating Experimental Data Files
 
 We will spend most of our time learning about the basics of the shell
-by manipulating some experimental data from a hearing test. To get
-the data for this test, you will need internet access. Just enter the
+by manipulating some known filfes. To get
+the data for this part just enter the
 command:
 
     git clone -b https://github.com/JorySchossau/shell.git
